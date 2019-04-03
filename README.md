@@ -12,15 +12,15 @@
  # Usage
  ## Todo
  
- Replace api id and hash with your own obtained from https://my.telegram.org/auth in all the python files
+ Replace api_id and api_hash with your own obtained from https://my.telegram.org/auth in all the python files
  
- Install dependencies pip(pyfiglet, telethon etc)
+ Install dependencies pip(telethon, pyfiglet etc).
  
  # To run
  
- run `python init_send.py` and `python init_rec.py` and sign in to telegram using your phone numbers
+ run `python init_send.py` and `python init_rec.py` and sign in to telegram using your phone number.
  
- run `bash app.sh <username to message>` to start encrypted communication
+ run `bash app.sh <username to message>` to start encrypted communication.
 
 <img src="ex.png" alt="Example">
 
