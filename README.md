@@ -24,8 +24,8 @@
 
 ## Thanks
 
-Thanks to @Lonami and @LonamiWebs for the wonderful Telethon API.
+Thanks to <a href=https://github.com/lonami>@Lonami</a> and <a href=https://github.com/LonamiWebs>@LonamiWebs</a> for the wonderful Telethon API.
 
-Thanks to @elekdra for testing this out for me.
+Thanks to <a href=https://github.com/elekdra>@elekdra</a> for testing this out for me.
 
 There are many issues. Looking for collaborators having good knowledge in Telethon API or making a good TUI
