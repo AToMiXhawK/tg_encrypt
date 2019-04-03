@@ -18,7 +18,7 @@
  
  # To run
  
- run `python init_send.py` and `python init_rec.py` and signin to telegram using your phone numbers
+ run `python init_send.py` and `python init_rec.py` and sign in to telegram using your phone numbers
  
  run `bash app.sh <username to message>` to start encrypted communication
 
