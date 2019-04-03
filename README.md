@@ -22,4 +22,10 @@
 
 <img src="ex.png" alt="Example">
 
+## Thanks
+
+Thanks to @Lonami and @LonamiWebs for the wonderful Telethon API.
+
+Thanks to @elekdra for testing this out for me.
+
 There are many issues. Looking for collaborators having good knowledge in Telethon API or making a good TUI
