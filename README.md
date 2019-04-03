@@ -7,7 +7,7 @@
                                       /____/_/                    
   </pre>
  
- Sripts for sending and receiving encrypted messages via Telegram
+ Scripts for sending and receiving encrypted messages via Telegram
  
  # Usage
  ## Todo
