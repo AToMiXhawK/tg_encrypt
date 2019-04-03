@@ -6,7 +6,9 @@
 /_/  \____/     /_____/_/ /_/\___/_/   \__, / .___/\__/\___/_/     
                                       /____/_/                    
   </pre>
-  
+ 
+ Sripts for sending and receiving encrypted messages via Telegram
+ 
  # Usage
  ## Todo
  
