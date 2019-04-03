@@ -21,3 +21,5 @@
  run `bash app.sh <username to message>` to start encrypted communication
 
 <img src="ex.png" alt="Example">
+
+There are many issues. Looking for collaborators having good knowledge in Telethon API or making a good TUI
